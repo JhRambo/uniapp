@@ -1,0 +1,1 @@
+<view class="recommend-list"><recommend vue-id="083d8bd4-1" dataList="{{recommendList}}" bind:__l="__l"></recommend></view>

@@ -1,0 +1,8 @@
+{
+  "scrollIndicator": "none",
+  "navigationBarTitleText": "购物车",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni/uni-nav-bar/uni-nav-bar"
+  }
+}

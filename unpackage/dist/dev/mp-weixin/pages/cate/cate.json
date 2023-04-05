@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "lines": "/components/common/Lines",
+    "commodity-list": "/components/common/CommodityList"
+  }
+}

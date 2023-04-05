@@ -1,0 +1,34 @@
+
+.search-item.data-v-4cedc0c6 {
+	padding: 10rpx;
+}
+.search-title.data-v-4cedc0c6 {
+	display: flex;
+	justify-content: space-between;
+}
+.search-name.data-v-4cedc0c6 {
+	padding: 4rpx 24rpx;
+	background-color: #e1e1e1;
+	display: inline-block;
+	border-radius: 26rpx;
+	margin: 10rpx;
+}
+.wx-nav.data-v-4cedc0c6 {
+	width: 100%;
+	height: 200rpx;
+	line-height: 200rpx;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}
+.search-text.data-v-4cedc0c6 {
+	border-radius: 10rpx;
+	border: 2rpx solid #efefef;
+	width: 57%;
+	margin-left: 10rpx;
+	font-size:32rpx;
+}
+.icons.data-v-4cedc0c6 {
+	font-size: 50rpx;
+}
+

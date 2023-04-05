@@ -1,0 +1,22 @@
+
+.icons.data-v-4d8061dc {
+	display: flex;
+	flex-wrap: wrap;
+}
+.icons-item.data-v-4d8061dc {
+	width: 25%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding-top: 20rpx;
+}
+.icons-img.data-v-4d8061dc {
+	height: 100rpx;
+	width: 100rpx;
+	border-radius: 10rpx;
+}
+.icons-name.data-v-4d8061dc {
+	font-size: 30rpx;
+}
+

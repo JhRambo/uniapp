@@ -1,0 +1,19 @@
+
+.shop-item.data-v-aaa41fa4 {
+}
+.shop-img.data-v-aaa41fa4 {
+	width: 100%;
+	height: 350rpx;
+	margin-bottom: 2rpx
+}
+.scroll-content.data-v-aaa41fa4 {
+	width: 100%;
+	white-space: nowrap;
+}
+.scroll-item.data-v-aaa41fa4 {
+	display: inline-block;
+	width: 300rpx;
+	height: 300rpx;
+	margin-bottom: 20rpx;
+}
+

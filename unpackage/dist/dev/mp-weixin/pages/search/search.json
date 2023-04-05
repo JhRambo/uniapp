@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "lines": "/components/common/Lines"
+  }
+}

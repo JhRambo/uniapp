@@ -1,0 +1,1 @@
+<view class="search-list"><commodity-list vue-id="11bff978-1" bind:__l="__l"></commodity-list></view>
